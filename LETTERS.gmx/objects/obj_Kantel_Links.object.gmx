@@ -109,7 +109,7 @@
         <exetype>1</exetype>
         <functionname>action_set_alarm</functionname>
         <codestring></codestring>
-        <whoName>obj_President</whoName>
+        <whoName>obj_President1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>

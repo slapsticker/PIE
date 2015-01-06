@@ -12,43 +12,58 @@
     <sprite>sprites\b</sprite>
     <sprite>sprites\c</sprite>
     <sprite>sprites\d</sprite>
-    <sprite>sprites\spr_President_Taart</sprite>
-    <sprite>sprites\spr_President1</sprite>
-    <sprite>sprites\spr_Bediende_Valt2</sprite>
+    <sprite>sprites\spr_Aftelklok</sprite>
+    <sprite>sprites\spr_Bediende_Stapt1</sprite>
     <sprite>sprites\spr_Bediende_Stapt2</sprite>
     <sprite>sprites\spr_Bediende_Valt1</sprite>
-    <sprite>sprites\spr_Bediende_Stapt1</sprite>
+    <sprite>sprites\spr_Bediende_Valt2</sprite>
     <sprite>sprites\spr_Kantel</sprite>
     <sprite>sprites\Spr_Koekoek</sprite>
-    <sprite>sprites\spr_Aftelklok</sprite>
     <sprite>sprites\spr_Koekoek_Vliegt</sprite>
+    <sprite>sprites\spr_President_Taart1</sprite>
+    <sprite>sprites\spr_President_Taart2</sprite>
+    <sprite>sprites\spr_President_Taart3</sprite>
+    <sprite>sprites\spr_President1</sprite>
+    <sprite>sprites\spr_President2</sprite>
+    <sprite>sprites\spr_President3</sprite>
+    <sprite>sprites\spr_Tussentitel_050</sprite>
+    <sprite>sprites\spr_Tussentitel_000</sprite>
+    <sprite>sprites\spr_Tussentitel_100</sprite>
+    <sprite>sprites\spr_Tussentitel_150</sprite>
+    <sprite>sprites\spr_Tussentitel_200</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
-    <background>background\background0</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
+    <object>objects\check</object>
+    <object>objects\obj_Aftelklok</object>
+    <object>objects\obj_Bediende_Stapt</object>
+    <object>objects\obj_Bediende_Valt1</object>
+    <object>objects\obj_Bediende_Valt2</object>
+    <object>objects\obj_CONTROLLER</object>
+    <object>objects\obj_Kantel_Links</object>
+    <object>objects\obj_Kantel_Rechts</object>
+    <object>objects\obj_Koekoek</object>
+    <object>objects\obj_Koekoek_Beweegt</object>
+    <object>objects\obj_President_Taart1</object>
+    <object>objects\obj_President_Taart2</object>
+    <object>objects\obj_President_Taart3</object>
+    <object>objects\obj_President1</object>
+    <object>objects\obj_President2</object>
+    <object>objects\obj_President3</object>
     <object>objects\object0a</object>
     <object>objects\object1b</object>
     <object>objects\object2c</object>
     <object>objects\object3d</object>
-    <object>objects\check</object>
     <object>objects\restart</object>
-    <object>objects\obj_Koekoek_Beweegt</object>
-    <object>objects\obj_Bediende_Valt1</object>
-    <object>objects\obj_Kantel_Links</object>
-    <object>objects\obj_Koekoek</object>
-    <object>objects\obj_Aftelklok</object>
-    <object>objects\obj_Bediende_Stapt</object>
-    <object>objects\obj_Bediende_Valt2</object>
-    <object>objects\obj_President</object>
-    <object>objects\obj_President_Taart</object>
-    <object>objects\obj_CONTROLLER</object>
-    <object>objects\obj_Kantel_Rechts</object>
+    <object>objects\obj_SCORE</object>
+    <object>objects\obj_Next_Level</object>
   </objects>
   <timelines name="timelines">
-    <timeline>timelines\timeline0</timeline>
+    <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
+    <timeline>timelines\timeline_Score</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\room1_Letters</room>
