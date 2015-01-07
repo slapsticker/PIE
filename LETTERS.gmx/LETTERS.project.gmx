@@ -37,33 +37,37 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\check</object>
-    <object>objects\obj_Aftelklok</object>
-    <object>objects\obj_Bediende_Stapt</object>
-    <object>objects\obj_Bediende_Valt1</object>
-    <object>objects\obj_Bediende_Valt2</object>
-    <object>objects\obj_CONTROLLER</object>
-    <object>objects\obj_Kantel_Links</object>
-    <object>objects\obj_Kantel_Rechts</object>
-    <object>objects\obj_Koekoek</object>
-    <object>objects\obj_Koekoek_Beweegt</object>
-    <object>objects\obj_President_Taart1</object>
-    <object>objects\obj_President_Taart2</object>
-    <object>objects\obj_President_Taart3</object>
-    <object>objects\obj_President1</object>
-    <object>objects\obj_President2</object>
-    <object>objects\obj_President3</object>
-    <object>objects\object0a</object>
-    <object>objects\object1b</object>
-    <object>objects\object2c</object>
-    <object>objects\object3d</object>
-    <object>objects\restart</object>
-    <object>objects\obj_SCORE</object>
-    <object>objects\obj_Next_Level</object>
+    <object>objects\obj_global_CONTROLLER</object>
+    <objects name="room1_letters">
+      <object>objects\obj_check</object>
+      <object>objects\obj_a</object>
+      <object>objects\obj_b</object>
+      <object>objects\obj_c</object>
+      <object>objects\obj_d</object>
+    </objects>
+    <objects name="room2_koekoek">
+      <object>objects\obj_SCORE</object>
+      <object>objects\obj_President3</object>
+      <object>objects\obj_President2</object>
+      <object>objects\obj_President1</object>
+      <object>objects\obj_President_Taart3</object>
+      <object>objects\obj_President_Taart2</object>
+      <object>objects\obj_President_Taart1</object>
+      <object>objects\obj_Koekoek_Beweegt</object>
+      <object>objects\obj_Koekoek</object>
+      <object>objects\obj_Kantel_Rechts</object>
+      <object>objects\obj_Kantel_Links</object>
+      <object>objects\obj_CONTROLLER</object>
+      <object>objects\obj_Bediende_Valt2</object>
+      <object>objects\obj_Bediende_Valt1</object>
+      <object>objects\obj_Bediende_Stapt</object>
+      <object>objects\obj_Aftelklok</object>
+    </objects>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
     <timeline>timelines\timeline_Score</timeline>
+    <timeline>timelines\timeline_sound_room2_Koekoek</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\room1_Letters</room>
