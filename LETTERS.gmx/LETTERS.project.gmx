@@ -8,29 +8,33 @@
     <sound>sound\sound0_subphat_01</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\a</sprite>
-    <sprite>sprites\b</sprite>
-    <sprite>sprites\c</sprite>
-    <sprite>sprites\d</sprite>
-    <sprite>sprites\spr_Aftelklok</sprite>
-    <sprite>sprites\spr_Bediende_Stapt1</sprite>
-    <sprite>sprites\spr_Bediende_Stapt2</sprite>
-    <sprite>sprites\spr_Bediende_Valt1</sprite>
-    <sprite>sprites\spr_Bediende_Valt2</sprite>
-    <sprite>sprites\spr_Kantel</sprite>
-    <sprite>sprites\Spr_Koekoek</sprite>
-    <sprite>sprites\spr_Koekoek_Vliegt</sprite>
-    <sprite>sprites\spr_President_Taart1</sprite>
-    <sprite>sprites\spr_President_Taart2</sprite>
-    <sprite>sprites\spr_President_Taart3</sprite>
-    <sprite>sprites\spr_President1</sprite>
-    <sprite>sprites\spr_President2</sprite>
-    <sprite>sprites\spr_President3</sprite>
-    <sprite>sprites\spr_Tussentitel_050</sprite>
-    <sprite>sprites\spr_Tussentitel_000</sprite>
-    <sprite>sprites\spr_Tussentitel_100</sprite>
-    <sprite>sprites\spr_Tussentitel_150</sprite>
-    <sprite>sprites\spr_Tussentitel_200</sprite>
+    <sprites name="room1_letters">
+      <sprite>sprites\a</sprite>
+      <sprite>sprites\b</sprite>
+      <sprite>sprites\c</sprite>
+      <sprite>sprites\d</sprite>
+    </sprites>
+    <sprites name="room2_koekkoek">
+      <sprite>sprites\spr_Aftelklok</sprite>
+      <sprite>sprites\spr_Bediende_Stapt1</sprite>
+      <sprite>sprites\spr_Bediende_Stapt2</sprite>
+      <sprite>sprites\spr_Bediende_Valt1</sprite>
+      <sprite>sprites\spr_Tussentitel_200</sprite>
+      <sprite>sprites\spr_Tussentitel_150</sprite>
+      <sprite>sprites\spr_Tussentitel_100</sprite>
+      <sprite>sprites\spr_Tussentitel_000</sprite>
+      <sprite>sprites\spr_Tussentitel_050</sprite>
+      <sprite>sprites\spr_President3</sprite>
+      <sprite>sprites\spr_President2</sprite>
+      <sprite>sprites\spr_President1</sprite>
+      <sprite>sprites\spr_President_Taart3</sprite>
+      <sprite>sprites\spr_President_Taart2</sprite>
+      <sprite>sprites\spr_President_Taart1</sprite>
+      <sprite>sprites\spr_Koekoek_Vliegt</sprite>
+      <sprite>sprites\Spr_Koekoek</sprite>
+      <sprite>sprites\spr_Kantel</sprite>
+      <sprite>sprites\spr_Bediende_Valt2</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
