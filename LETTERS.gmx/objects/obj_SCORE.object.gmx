@@ -89,7 +89,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>&lt;undefined&gt;</object>
+            <object>-1</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -147,7 +147,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>&lt;undefined&gt;</object>
+            <object>-1</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -233,7 +233,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>&lt;undefined&gt;</object>
+            <object>-1</object>
           </argument>
           <argument>
             <kind>0</kind>
