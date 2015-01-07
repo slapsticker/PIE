@@ -87,6 +87,7 @@
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
     <background>background\background_Instructies_Koekoek</background>
+    <background>background\muurschildering</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
