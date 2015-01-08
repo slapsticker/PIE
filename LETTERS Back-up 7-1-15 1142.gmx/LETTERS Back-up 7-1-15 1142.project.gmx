@@ -42,8 +42,41 @@
       <sound>sound\sound49_bumble031</sound>
       <sound>sound\sound50_bumble032</sound>
     </sounds>
+    <sounds name="Room0_siri">
+      <sound>sound\sound33_siri_random04_poem01</sound>
+      <sound>sound\sound34_siri_random05_poem02</sound>
+      <sound>sound\sound35_siri_random06_woodchuck</sound>
+      <sound>sound\sound36_siri_random07_livestock</sound>
+      <sound>sound\sound37_siri_random07_MrCake</sound>
+      <sound>sound\sound38_siri_random08_notamused</sound>
+      <sound>sound\sound39_siri_sorry01</sound>
+      <sound>sound\sound40_siri_sorry02</sound>
+      <sound>sound\sound41_siri_sorry03</sound>
+      <sound>sound\sound42_siri_sorry04</sound>
+      <sound>sound\sound43_siri_sorry05</sound>
+      <sound>sound\sound44_siri_thinking01</sound>
+      <sound>sound\sound45_siri_weather01</sound>
+      <sound>sound\sound46_siri_cakedefinition01_solidsubstance</sound>
+      <sound>sound\sound47_siri_cakedefinition02_calories</sound>
+      <sound>sound\sound48_siri_directions01_london</sound>
+      <sound>sound\sound49_siri_directions02_MCDO</sound>
+      <sound>sound\sound50_siri_directions03_MCDO</sound>
+      <sound>sound\sound51_siri_directions04_where</sound>
+      <sound>sound\sound52_siri_itsOK</sound>
+      <sound>sound\sound53_siri_language01</sound>
+      <sound>sound\sound54_siri_pastryshop01</sound>
+      <sound>sound\sound55_siri_ping01</sound>
+      <sound>sound\sound56_siri_ping02</sound>
+      <sound>sound\sound57_siri_random01_life</sound>
+      <sound>sound\sound58_siri_random02_cryparty</sound>
+      <sound>sound\sound59_siri_random03_tearresitant</sound>
+      <sound>sound\sound60_siri_connectionerror</sound>
+    </sounds>
   </sounds>
   <sprites name="sprites">
+    <sprites name="room0_siri">
+      <sprite>sprites\sprite36_SPR_Ipadmetmap</sprite>
+    </sprites>
     <sprites name="Room1_Letters">
       <sprite>sprites\a</sprite>
       <sprite>sprites\b</sprite>
@@ -82,12 +115,14 @@
       <sprite>sprites\spr_Tussentitel_100</sprite>
       <sprite>sprites\spr_Tussentitel_150</sprite>
       <sprite>sprites\spr_Tussentitel_200</sprite>
+      <sprite>sprites\spr_muurschildering</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
     <background>background\background_Instructies_Koekoek</background>
     <background>background\muurschildering</background>
+    <background>background\bckgr_room0_siri</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -129,7 +164,10 @@
       <object>objects\obj_SCORE</object>
       <object>objects\obj_Score_trigger</object>
       <object>objects\obj_Taart1</object>
+      <object>objects\obj_muurschildering</object>
     </objects>
+    <object>objects\iPad</object>
+    <object>objects\siri</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
@@ -142,6 +180,7 @@
     <room>rooms\room1_Letters</room>
     <room>rooms\room2a_Koekoek_Instructies</room>
     <room>rooms\room2b_Koekoek</room>
+    <room>rooms\room0_siri</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
