@@ -11,6 +11,27 @@
     <event eventtype="4" ename="obj_doolhof_siriTRIGGER">
       <action>
         <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>audio_stop_all()
+</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>211</id>
         <kind>0</kind>
         <userelative>0</userelative>
@@ -49,20 +70,62 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var randomSound = irandom(2); //create a random integer with 3 possible outcomes (0, 1, 2)
+            <string>var randomSound = irandom(15); //create a random integer with 3 possible outcomes (0, 1, 2)
 
 switch(randomSound)// do stuff based on the outcome of the randomSound variable
 {
     case 0: // if randomSound is equal to 0 then play sound0
-        audio_play_sound(sound39_siri_sorry01, 1, false);
+        audio_play_sound(sound33_siri_random04_poem01, 1, false);
         break;
     case 1: //if randomSound is equal to 1 then play sound1
-        audio_play_sound(sound40_siri_sorry02, 1, false);
+        audio_play_sound(sound34_siri_random05_poem02, 1, false);
         break;
     case 2: //if randomSound is equal to 2 then play sound2
-        audio_play_sound(sound41_siri_sorry03, 1, false);
+        audio_play_sound(sound35_siri_random06_woodchuck, 1, false);
         break;
+    case 3:
+        audio_play_sound(sound36_siri_random07_livestock, 1, false);
+        break;
+    case 4: 
+        audio_play_sound(sound37_siri_random07_MrCake, 1, false);
+        break;  
+    case 5: 
+        audio_play_sound(sound38_siri_random08_notamused, 1, false);
+        break;  
+    case 6:
+        audio_play_sound(sound39_siri_sorry01, 1, false);
+        break;
+    case 7: 
+        audio_play_sound(sound40_siri_sorry02, 1, false);
+        break;  
+    case 8: 
+        audio_play_sound(sound41_siri_sorry03, 1, false);
+        break; 
+    case 9:
+        audio_play_sound(sound42_siri_sorry04, 1, false);    
+    case 10:
+        audio_play_sound(sound43_siri_sorry05, 1, false);
+        break;
+    case 11: 
+        audio_play_sound(sound44_siri_thinking01, 1, false);
+        break;  
+    case 12: 
+        audio_play_sound(sound45_siri_weather01, 1, false);
+        break;  
+    case 13:
+        audio_play_sound(sound46_siri_cakedefinition01_solidsubstance, 1, false);
+        break;
+    case 14: 
+        audio_play_sound(sound47_siri_cakedefinition02_calories, 1, false);
+        break;  
+    case 15: 
+        audio_play_sound(sound48_siri_directions01_london, 1, false);
+        break; 
+    case 16:
+        audio_play_sound(sound49_siri_directions02_MCDO, 1, false);                 
 }
+
+
 </string>
           </argument>
         </arguments>
@@ -224,5 +287,8 @@ switch(randomSound)// do stuff based on the outcome of the randomSound variable
   <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
-  <PhysicsShapePoints/>
+  <PhysicsShapePoints>
+    <point>0,0</point>
+    <point>8,8</point>
+  </PhysicsShapePoints>
 </object>
