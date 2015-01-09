@@ -3,8 +3,8 @@
   <caption></caption>
   <width>1735</width>
   <height>768</height>
-  <vsnap>32</vsnap>
-  <hsnap>32</hsnap>
+  <vsnap>2</vsnap>
+  <hsnap>2</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -54,7 +54,38 @@
     <instance objName="siri" x="736" y="32" name="inst_D6CEC0CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="mannetje" x="0" y="224" name="inst_F7C1F80B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj__GOAL01_nointernet" x="32" y="32" name="inst_1E84D751" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="iPad" x="736" y="32" name="inst_AA757B0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inv_walls" x="-224" y="0" name="inst_3E0DA8B2" locked="0" code="" scaleX="1" scaleY="24" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inv_walls" x="1952" y="0" name="inst_F9730E71" locked="0" code="" scaleX="1" scaleY="24" colour="4294967295" rotation="0"/>
+    <instance objName="iPad" x="736" y="32" name="inst_D8B5E035" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="760" y="64" name="inst_5311F79B" locked="0" code="" scaleX="0.100000001490116" scaleY="8.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="760" y="64" name="inst_30D6C017" locked="0" code="" scaleX="6.45161294937134" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="965" y="64" name="inst_6886CD67" locked="0" code="" scaleX="0.100000001490116" scaleY="8.45161247253418" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="760" y="332" name="inst_7A37A5A6" locked="0" code="" scaleX="6.5625" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="775" y="66" name="inst_BF1A15C0" locked="0" code="" scaleX="0.100000001490116" scaleY="1.0625" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="760" y="117" name="inst_6F8B07A5" locked="0" code="" scaleX="0.9375" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="789" y="100" name="inst_D0BC3616" locked="0" code="" scaleX="0.100000001490116" scaleY="1.1875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="790" y="134" name="inst_A30A6E4A" locked="0" code="" scaleX="0.4375" scaleY="0.125" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="802" y="134" name="inst_9F4A5EBC" locked="0" code="" scaleX="0.100000001490116" scaleY="0.6875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="802" y="153" name="inst_2E619C94" locked="0" code="" scaleX="0.5" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="816" y="118" name="inst_15706A2B" locked="0" code="" scaleX="0.100000001490116" scaleY="1.125" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="816" y="135" name="inst_6676E976" locked="0" code="" scaleX="0.875" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="831" y="117" name="inst_CB914BE7" locked="0" code="" scaleX="0.8125" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="790" y="171" name="inst_30071B69" locked="0" code="" scaleX="0.839999973773956" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="789" y="153" name="inst_D172BDE5" locked="0" code="" scaleX="0.100000001490116" scaleY="1.21875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="802" y="82" name="inst_F54F7BBA" locked="0" code="" scaleX="0.100000001490116" scaleY="1.1875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="790" y="82" name="inst_78BA30A0" locked="0" code="" scaleX="0.4375" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="816" y="82" name="inst_B32F1171" locked="0" code="" scaleX="0.875" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="842" y="66" name="inst_958C8A17" locked="0" code="" scaleX="0.100000001490116" scaleY="1.09677422046661" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="804" y="100" name="inst_0B92B8BD" locked="0" code="" scaleX="0.875" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="828" y="100" name="inst_17E38EF6" locked="0" code="" scaleX="0.100000001490116" scaleY="0.625" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="842" y="120" name="inst_9DA5C32E" locked="0" code="" scaleX="0.100000001490116" scaleY="1.69000005722046" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="829" y="171" name="inst_1BD8D1D1" locked="0" code="" scaleX="1.3125" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="829" y="152" name="inst_6F0A97AB" locked="0" code="" scaleX="0.100000001490116" scaleY="2.875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="776" y="136" name="inst_78F56875" locked="0" code="" scaleX="0.100000001490116" scaleY="0.625" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="778" y="153" name="inst_9DEBF17C" locked="0" code="" scaleX="0.375" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="869" y="66" name="inst_FDE6B180" locked="0" code="" scaleX="0.100000001490116" scaleY="1.6875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="856" y="99" name="inst_CB374D2C" locked="0" code="" scaleX="0.875" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="856" y="82" name="inst_6D02577F" locked="0" code="" scaleX="0.100000001490116" scaleY="0.625" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -120,6 +120,9 @@
       <sprite>sprites\spr_Tussentitel_200</sprite>
       <sprite>sprites\spr_muurschildering</sprite>
     </sprites>
+    <sprite>sprites\wall</sprite>
+    <sprite>sprites\doolhof</sprite>
+    <sprite>sprites\sprite41_SPR_cursorman</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
@@ -174,8 +177,10 @@
     <object>objects\mannetje</object>
     <object>objects\obj_klikcheck</object>
     <object>objects\obj__GOAL01_nointernet</object>
-    <object>objects\obj_GOAL02_waarisdebakker</object>
-    <object>objects\obj_GOAL03_routenaartaart</object>
+    <object>objects\obj_GOAL02_routenaartaart</object>
+    <object>objects\obj_inv_walls</object>
+    <object>objects\obj_doolhof_walls</object>
+    <object>objects\location_indicator</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
