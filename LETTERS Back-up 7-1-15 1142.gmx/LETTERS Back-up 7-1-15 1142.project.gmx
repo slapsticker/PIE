@@ -181,6 +181,7 @@
     <object>objects\obj_inv_walls</object>
     <object>objects\obj_doolhof_walls</object>
     <object>objects\location_indicator</object>
+    <object>objects\obj_doolhof_siriTRIGGER</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
@@ -188,7 +189,7 @@
       <timeline>timelines\timeline_sound_room2_bumblebee</timeline>
       <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
     </timelines>
-    <timeline>timelines\timeline_goals</timeline>
+    <timeline>timelines\timeline_siri_quotes</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\room1_Letters</room>

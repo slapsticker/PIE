@@ -54,7 +54,7 @@
     <instance objName="siri" x="736" y="32" name="inst_D6CEC0CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="mannetje" x="0" y="224" name="inst_F7C1F80B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj__GOAL01_nointernet" x="32" y="32" name="inst_1E84D751" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="iPad" x="736" y="32" name="inst_D8B5E035" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_walls" x="898" y="313" name="inst_75ABC24C" locked="0" code="" scaleX="0.838709652423859" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="760" y="64" name="inst_5311F79B" locked="0" code="" scaleX="0.100000001490116" scaleY="8.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="760" y="64" name="inst_30D6C017" locked="0" code="" scaleX="6.45161294937134" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="965" y="64" name="inst_6886CD67" locked="0" code="" scaleX="0.100000001490116" scaleY="8.45161247253418" colour="4294967295" rotation="0"/>
@@ -105,7 +105,7 @@
     <instance objName="obj_doolhof_walls" x="869" y="153" name="inst_165DD4FC" locked="0" code="" scaleX="0.100000001490116" scaleY="0.65625" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="921" y="118" name="inst_3B5AD3A5" locked="0" code="" scaleX="0.100000001490116" scaleY="0.5625" colour="4294967295" rotation="0"/>
     <instance objName="obj_inv_walls" x="-400" y="-2" name="inst_AF2F0FFB" locked="0" code="" scaleX="1.0625" scaleY="25.0599994659424" colour="4294967295" rotation="0"/>
-    <instance objName="obj_inv_walls" x="2148" y="-14" name="inst_AD0DAF67" locked="0" code="" scaleX="1.0625" scaleY="25.0599994659424" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inv_walls" x="2392" y="-14" name="inst_AD0DAF67" locked="0" code="" scaleX="1.0625" scaleY="25.0599994659424" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="802" y="188" name="inst_524EA933" locked="0" code="" scaleX="0.100000001490116" scaleY="2.3125" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="776" y="188" name="inst_78DE8E86" locked="0" code="" scaleX="0.100000001490116" scaleY="1.19000005722046" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="788" y="224" name="inst_9B4316EA" locked="0" code="" scaleX="0.100000001490116" scaleY="1.80645155906677" colour="4294967295" rotation="0"/>
@@ -168,7 +168,100 @@
     <instance objName="obj_doolhof_walls" x="952" y="242" name="inst_73D07AC4" locked="0" code="" scaleX="0.451612889766693" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="952" y="206" name="inst_5E33A6AD" locked="0" code="" scaleX="0.451612889766693" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
     <instance objName="obj_doolhof_walls" x="952" y="314" name="inst_E27164C3" locked="0" code="" scaleX="0.451612889766693" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
-    <instance objName="obj_doolhof_walls" x="898" y="313" name="inst_75ABC24C" locked="0" code="" scaleX="0.838709652423859" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="782" y="88" name="inst_3D4B1D4A" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="830" y="70" name="inst_5BCFFFA0" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="834" y="106" name="inst_75F442A2" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="860" y="90" name="inst_7EA25758" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="874" y="106" name="inst_0E17F7F2" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="846" y="132" name="inst_C62C1F18" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="858" y="160" name="inst_0722B52F" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="910" y="178" name="inst_6FF06DFF" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="858" y="196" name="inst_BFD7EDF1" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="836" y="214" name="inst_4F926C02" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="848" y="250" name="inst_FCB79DE0" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="806" y="266" name="inst_35307DD6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="782" y="214" name="inst_ADB9ACE5" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="806" y="196" name="inst_059D3EFE" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="832" y="162" name="inst_92F8AAA5" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="792" y="140" name="inst_FC111E8E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="778" y="176" name="inst_C3FF13C6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="792" y="286" name="inst_1F1130B6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="920" y="88" name="inst_01C7CDE1" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="888" y="160" name="inst_0053C376" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="928" y="124" name="inst_5A304800" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="942" y="160" name="inst_7B20A8E6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="900" y="214" name="inst_A9579B1D" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="874" y="194" name="inst_D4C2DB45" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="928" y="250" name="inst_BC7793D6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="954" y="268" name="inst_B71B1C17" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="846" y="266" name="inst_AA603150" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="766" y="322" name="inst_BB74BCC1" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="870" y="322" name="inst_A421405E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="900" y="266" name="inst_E2C9EB1B" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="926" y="324" name="inst_44581640" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="956" y="324" name="inst_FFCDAFCA" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="954" y="212" name="inst_A41F10D9" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="794" y="70" name="inst_B7966164" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="814" y="88" name="inst_8DABA1DC" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="808" y="106" name="inst_0B610B01" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="806" y="144" name="inst_B6CC2BC6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="794" y="122" name="inst_4E41D219" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="890" y="124" name="inst_58230C66" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="902" y="106" name="inst_F9FFEE5F" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="892" y="72" name="inst_F6069343" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="948" y="70" name="inst_40BDB75E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="940" y="98" name="inst_74FF780D" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="914" y="150" name="inst_CDDA66E2" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="826" y="142" name="inst_F7B9AD5F" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="818" y="168" name="inst_104932FE" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="798" y="160" name="inst_4209B46D" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="772" y="124" name="inst_F17B962B" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="768" y="158" name="inst_DD15F392" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="766" y="72" name="inst_F5863845" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="766" y="196" name="inst_096D6BEE" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="766" y="228" name="inst_8C7B5EAB" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="778" y="242" name="inst_76AFDA1B" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="766" y="262" name="inst_CA4CF065" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="764" y="294" name="inst_3BACE677" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="788" y="304" name="inst_BFA48631" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="798" y="322" name="inst_2297AAE3" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="822" y="324" name="inst_80DF7A93" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="834" y="302" name="inst_6C0F6669" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="830" y="284" name="inst_D13246F6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="820" y="300" name="inst_8F7D9153" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="850" y="304" name="inst_43849550" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="862" y="266" name="inst_67A81652" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="882" y="302" name="inst_378BEF30" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="902" y="302" name="inst_0155FFAD" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="880" y="284" name="inst_D0A91DC1" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="872" y="250" name="inst_2B1956F4" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="862" y="230" name="inst_98AF0599" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="828" y="250" name="inst_0DADCCCC" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="812" y="214" name="inst_36F5AFFF" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="806" y="238" name="inst_802342A1" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="838" y="178" name="inst_C8FE262B" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="876" y="178" name="inst_9968CA36" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="872" y="144" name="inst_AFBFFE85" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="866" y="124" name="inst_D960684E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="904" y="194" name="inst_5C6DE7C4" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="924" y="212" name="inst_78F91287" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="916" y="232" name="inst_A878D132" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="944" y="232" name="inst_4A93364A" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="946" y="194" name="inst_308D4A1E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="934" y="176" name="inst_2AD43C11" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="954" y="126" name="inst_85F46FDB" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="936" y="302" name="inst_8DBE739F" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="954" y="290" name="inst_7A98EFA6" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="926" y="276" name="inst_516D307A" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="912" y="248" name="inst_68FB991B" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="886" y="214" name="inst_485BB782" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="886" y="250" name="inst_13D9ED8E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="840" y="230" name="inst_1AA7D6F1" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="774" y="108" name="inst_CF4F332D" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="828" y="124" name="inst_4029FDE0" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="794" y="186" name="inst_19D2A029" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="806" y="296" name="inst_F8F17E55" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_doolhof_siriTRIGGER" x="954" y="250" name="inst_5D3B149E" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
