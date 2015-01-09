@@ -117,6 +117,8 @@
       <sprite>sprites\spr_Tussentitel_200</sprite>
       <sprite>sprites\spr_muurschildering</sprite>
     </sprites>
+    <sprite>sprites\sprite37_SPR_mannetje1</sprite>
+    <sprite>sprites\sprite41_SPR_mannetje1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
@@ -168,6 +170,10 @@
     </objects>
     <object>objects\iPad</object>
     <object>objects\siri</object>
+    <object>objects\mannetje</object>
+    <object>objects\obj_klikcheck</object>
+    <object>objects\obj__GOAL01_nointernet</object>
+    <object>objects\obj_GOAL02_</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
@@ -175,6 +181,7 @@
       <timeline>timelines\timeline_sound_room2_bumblebee</timeline>
       <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
     </timelines>
+    <timeline>timelines\timeline_goals</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\room1_Letters</room>
