@@ -189,7 +189,6 @@
       <timeline>timelines\timeline_sound_room2_bumblebee</timeline>
       <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
     </timelines>
-    <timeline>timelines\timeline_siri_quotes</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\room1_Letters</room>
