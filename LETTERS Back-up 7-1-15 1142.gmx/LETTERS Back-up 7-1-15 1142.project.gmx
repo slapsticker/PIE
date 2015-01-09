@@ -76,6 +76,9 @@
   <sprites name="sprites">
     <sprites name="room0_siri">
       <sprite>sprites\sprite36_SPR_Ipadmetmap</sprite>
+      <sprite>sprites\SPR_ipadmaprood</sprite>
+      <sprite>sprites\sprite37_SPR_mannetje1</sprite>
+      <sprite>sprites\sprite41_SPR_mannetje1</sprite>
     </sprites>
     <sprites name="Room1_Letters">
       <sprite>sprites\a</sprite>
@@ -117,8 +120,6 @@
       <sprite>sprites\spr_Tussentitel_200</sprite>
       <sprite>sprites\spr_muurschildering</sprite>
     </sprites>
-    <sprite>sprites\sprite37_SPR_mannetje1</sprite>
-    <sprite>sprites\sprite41_SPR_mannetje1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
@@ -173,7 +174,8 @@
     <object>objects\mannetje</object>
     <object>objects\obj_klikcheck</object>
     <object>objects\obj__GOAL01_nointernet</object>
-    <object>objects\obj_GOAL02_</object>
+    <object>objects\obj_GOAL02_waarisdebakker</object>
+    <object>objects\obj_GOAL03_routenaartaart</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
