@@ -84,6 +84,7 @@
       <sprite>sprites\sprite43_SPR_cursortaart</sprite>
       <sprite>sprites\sprite44_SPR_bakkermettaart</sprite>
       <sprite>sprites\wall</sprite>
+      <sprite>sprites\sprite96_siri_logo_neuralnet</sprite>
     </sprites>
     <sprites name="Room2_Koekoek">
       <sprite>sprites\spr_Aftelklok</sprite>
@@ -239,6 +240,7 @@
       <object>objects\obj_klikcheck</object>
       <object>objects\obj_taart_doolhof</object>
       <object>objects\siri</object>
+      <object>objects\OBJsirilogo</object>
     </objects>
     <objects name="Room2_Koekoek">
       <object>objects\obj_Aftelklok</object>
