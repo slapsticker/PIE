@@ -118,6 +118,12 @@
       <sprite>sprites\spr_Tussentitel_150</sprite>
       <sprite>sprites\spr_Tussentitel_200</sprite>
       <sprite>sprites\spr_muurschildering</sprite>
+      <sprite>sprites\spr_Agent1</sprite>
+      <sprite>sprites\spr_Agent_taart1</sprite>
+      <sprite>sprites\spr_Rijkaard1</sprite>
+      <sprite>sprites\spr_Rijkaard_Taart1</sprite>
+      <sprite>sprites\spr_President4</sprite>
+      <sprite>sprites\spr_President_Taart4</sprite>
     </sprites>
     <sprites name="Room1_Letters">
       <sprite>sprites\a</sprite>
@@ -154,6 +160,22 @@
       <sprite>sprites\sprite13_SPR_I</sprite>
       <sprite>sprites\d</sprite>
     </sprites>
+    <sprite>sprites\sprite80_SPR_intertitle_bring_president</sprite>
+    <sprite>sprites\sprite81_SPR_intertitle_but_fashion</sprite>
+    <sprite>sprites\sprite82_SPR_intertitle_but_that</sprite>
+    <sprite>sprites\sprite83_SPR_intertitle_oh_failed</sprite>
+    <sprite>sprites\sprite84_SPR_intertitle_Press_enter</sprite>
+    <sprite>sprites\sprite85_SPR_intertitle_quick_cake</sprite>
+    <sprite>sprites\sprite86_SPR_intertitle_retry</sprite>
+    <sprite>sprites\sprite87_SPR_intertitle_score0</sprite>
+    <sprite>sprites\sprite88_SPR_intertitle_score50</sprite>
+    <sprite>sprites\sprite89_SPR_intertitle_score100</sprite>
+    <sprite>sprites\sprite90_SPR_intertitle_score150</sprite>
+    <sprite>sprites\sprite91_SPR_intertitle_score200</sprite>
+    <sprite>sprites\sprite92_SPR_intertitle_the_arrives</sprite>
+    <sprite>sprites\sprite93_SPR_intertitle_try_again</sprite>
+    <sprite>sprites\sprite94_SPR_intertitle_use_baker</sprite>
+    <sprite>sprites\sprite95_SPR_intertitle_you_game</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
@@ -237,19 +259,24 @@
       <object>objects\obj_Koekoek</object>
       <object>objects\obj_Koekoek_Beweegt</object>
       <object>objects\obj_Koekoek_Check</object>
+      <object>objects\obj_muurschildering</object>
       <object>objects\obj_Next_Level</object>
       <object>objects\obj_President_Taart1</object>
       <object>objects\obj_President_Taart2</object>
       <object>objects\obj_President_Taart3</object>
       <object>objects\obj_President1</object>
-      <object>objects\obj_Voorbijganger_Detector</object>
       <object>objects\obj_President2</object>
       <object>objects\obj_President3</object>
       <object>objects\obj_SCORE</object>
       <object>objects\obj_Score_trigger</object>
       <object>objects\obj_Taart1</object>
-      <object>objects\obj_muurschildering</object>
+      <object>objects\obj_Voorbijganger_Detector</object>
     </objects>
+    <object>objects\obj_Score000</object>
+    <object>objects\obj_Score050</object>
+    <object>objects\obj_Score100</object>
+    <object>objects\obj_Score150</object>
+    <object>objects\obj_Score200</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
