@@ -124,6 +124,7 @@
     <sprite>sprites\doolhof</sprite>
     <sprite>sprites\sprite41_SPR_cursorman</sprite>
     <sprite>sprites\sprite43_SPR_cursortaart</sprite>
+    <sprite>sprites\sprite44_SPR_bakkermettaart</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
@@ -185,6 +186,7 @@
     <object>objects\obj_doolhof_siriTRIGGER</object>
     <object>objects\obj_taart_doolhof</object>
     <object>objects\obj_GOAL03_taart</object>
+    <object>objects\obj_bakker</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
