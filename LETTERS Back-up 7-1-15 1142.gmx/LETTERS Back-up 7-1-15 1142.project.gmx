@@ -75,16 +75,15 @@
   </sounds>
   <sprites name="sprites">
     <sprites name="room0_siri">
-      <sprite>sprites\sprite36_SPR_Ipadmetmap</sprite>
+      <sprite>sprites\doolhof</sprite>
       <sprite>sprites\SPR_ipadmaprood</sprite>
+      <sprite>sprites\sprite36_SPR_Ipadmetmap</sprite>
       <sprite>sprites\sprite37_SPR_mannetje1</sprite>
+      <sprite>sprites\sprite41_SPR_cursorman</sprite>
       <sprite>sprites\sprite41_SPR_mannetje1</sprite>
-    </sprites>
-    <sprites name="Room1_Letters">
-      <sprite>sprites\a</sprite>
-      <sprite>sprites\b</sprite>
-      <sprite>sprites\c</sprite>
-      <sprite>sprites\d</sprite>
+      <sprite>sprites\sprite43_SPR_cursortaart</sprite>
+      <sprite>sprites\sprite44_SPR_bakkermettaart</sprite>
+      <sprite>sprites\wall</sprite>
     </sprites>
     <sprites name="Room2_Koekoek">
       <sprite>sprites\spr_Aftelklok</sprite>
@@ -120,11 +119,41 @@
       <sprite>sprites\spr_Tussentitel_200</sprite>
       <sprite>sprites\spr_muurschildering</sprite>
     </sprites>
-    <sprite>sprites\wall</sprite>
-    <sprite>sprites\doolhof</sprite>
-    <sprite>sprites\sprite41_SPR_cursorman</sprite>
-    <sprite>sprites\sprite43_SPR_cursortaart</sprite>
-    <sprite>sprites\sprite44_SPR_bakkermettaart</sprite>
+    <sprites name="Room1_Letters">
+      <sprite>sprites\a</sprite>
+      <sprite>sprites\b</sprite>
+      <sprite>sprites\sprite28_SPR_X</sprite>
+      <sprite>sprites\sprite27_SPR_W</sprite>
+      <sprite>sprites\sprite22_SPR_R</sprite>
+      <sprite>sprites\sprite23_SPR_S</sprite>
+      <sprite>sprites\sprite19_SPR_O</sprite>
+      <sprite>sprites\sprite20_SPR_P</sprite>
+      <sprite>sprites\sprite21_SPR_Q</sprite>
+      <sprite>sprites\sprite24_SPR_T</sprite>
+      <sprite>sprites\sprite15_SPR_K</sprite>
+      <sprite>sprites\sprite16_SPR_L</sprite>
+      <sprite>sprites\sprite14_SPR_J</sprite>
+      <sprite>sprites\sprite6_SPR_B</sprite>
+      <sprite>sprites\sprite10_SPR_F</sprite>
+      <sprite>sprites\sprite18_SPR_N</sprite>
+      <sprite>sprites\sprite7_SPR_C</sprite>
+      <sprite>sprites\sprite25_SPR_U</sprite>
+      <sprite>sprites\sprite12_SPR_H</sprite>
+      <sprite>sprites\sprite9_SPR_E</sprite>
+      <sprite>sprites\sprite5_SPR_A</sprite>
+      <sprite>sprites\sprite8_SPR_D</sprite>
+      <sprite>sprites\sprite39_SPR_intertitle_oh-failed</sprite>
+      <sprite>sprites\sprite0</sprite>
+      <sprite>sprites\spr_Check_Highlight</sprite>
+      <sprite>sprites\sprite29_SPR_Y</sprite>
+      <sprite>sprites\sprite26_SPR_V</sprite>
+      <sprite>sprites\sprite30_SPR_Z</sprite>
+      <sprite>sprites\sprite11_SPR_G</sprite>
+      <sprite>sprites\sprite17_SPR_M</sprite>
+      <sprite>sprites\c</sprite>
+      <sprite>sprites\sprite13_SPR_I</sprite>
+      <sprite>sprites\d</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
@@ -136,11 +165,58 @@
   <objects name="objects">
     <objects name="Room1_Letters">
       <object>objects\check</object>
+      <object>objects\obj_a</object>
+      <object>objects\obj_b</object>
+      <object>objects\obj_c</object>
+      <object>objects\obj_Check1</object>
+      <object>objects\obj_CheckA</object>
+      <object>objects\obj_CheckB</object>
+      <object>objects\obj_CheckC</object>
+      <object>objects\obj_CheckD</object>
+      <object>objects\obj_d</object>
+      <object>objects\obj_e</object>
+      <object>objects\obj_f</object>
+      <object>objects\obj_g</object>
+      <object>objects\obj_h</object>
+      <object>objects\obj_i</object>
+      <object>objects\obj_j</object>
+      <object>objects\obj_k</object>
+      <object>objects\obj_l</object>
+      <object>objects\obj_m</object>
+      <object>objects\obj_n</object>
+      <object>objects\obj_o</object>
+      <object>objects\obj_p</object>
+      <object>objects\obj_q</object>
+      <object>objects\obj_r</object>
+      <object>objects\obj_s</object>
+      <object>objects\obj_Speed_Controller0</object>
+      <object>objects\obj_t</object>
+      <object>objects\obj_u</object>
+      <object>objects\obj_v</object>
+      <object>objects\obj_w</object>
+      <object>objects\obj_x</object>
+      <object>objects\obj_y</object>
+      <object>objects\obj_z</object>
       <object>objects\object0a</object>
       <object>objects\object1b</object>
       <object>objects\object2c</object>
       <object>objects\object3d</object>
       <object>objects\restart</object>
+    </objects>
+    <objects name="room0_siri">
+      <object>objects\iPad</object>
+      <object>objects\location_indicator</object>
+      <object>objects\mannetje</object>
+      <object>objects\obj__GOAL01_nointernet</object>
+      <object>objects\obj_bakker</object>
+      <object>objects\obj_doolhof_siriTRIGGER</object>
+      <object>objects\obj_doolhof_walls</object>
+      <object>objects\obj_GOAL02_routenaartaart</object>
+      <object>objects\obj_GOAL03_taart</object>
+      <object>objects\obj_inv_walls</object>
+      <object>objects\obj_klikcheck</object>
+      <object>objects\obj_taart_doolhof</object>
+      <object>objects\siri</object>
     </objects>
     <objects name="Room2_Koekoek">
       <object>objects\obj_Aftelklok</object>
@@ -174,19 +250,6 @@
       <object>objects\obj_Taart1</object>
       <object>objects\obj_muurschildering</object>
     </objects>
-    <object>objects\iPad</object>
-    <object>objects\siri</object>
-    <object>objects\mannetje</object>
-    <object>objects\obj_klikcheck</object>
-    <object>objects\obj__GOAL01_nointernet</object>
-    <object>objects\obj_GOAL02_routenaartaart</object>
-    <object>objects\obj_inv_walls</object>
-    <object>objects\obj_doolhof_walls</object>
-    <object>objects\location_indicator</object>
-    <object>objects\obj_doolhof_siriTRIGGER</object>
-    <object>objects\obj_taart_doolhof</object>
-    <object>objects\obj_GOAL03_taart</object>
-    <object>objects\obj_bakker</object>
   </objects>
   <timelines name="timelines">
     <timelines name="Room2_Koekoek">
@@ -194,12 +257,20 @@
       <timeline>timelines\timeline_sound_room2_bumblebee</timeline>
       <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
     </timelines>
+    <timelines name="Room1_Letters">
+      <timeline>timelines\timeline_Speed_Controller</timeline>
+      <timeline>timelines\timeline_Speed0</timeline>
+      <timeline>timelines\timeline_Speed1</timeline>
+      <timeline>timelines\timeline_Speed2</timeline>
+      <timeline>timelines\timeline_Speed3</timeline>
+    </timelines>
   </timelines>
   <rooms name="rooms">
+    <room>rooms\room0_siri</room>
     <room>rooms\room1_Letters</room>
+    <room>rooms\room1_Letters_new</room>
     <room>rooms\room2a_Koekoek_Instructies</room>
     <room>rooms\room2b_Koekoek</room>
-    <room>rooms\room0_siri</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
