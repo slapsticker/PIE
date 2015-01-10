@@ -70,6 +70,20 @@
       <sound>sound\sound57_siri_random01_life</sound>
       <sound>sound\sound58_siri_random02_cryparty</sound>
       <sound>sound\sound59_siri_random03_tearresitant</sound>
+      <sound>sound\sound61_sirideuntjeA_01</sound>
+      <sound>sound\sound62_sirideuntjeA_02</sound>
+      <sound>sound\sound63_sirideuntjeA_03</sound>
+      <sound>sound\sound64_sirideuntjeA_04</sound>
+      <sound>sound\sound65_sirideuntjeA_05</sound>
+      <sound>sound\sound66_sirideuntjeA_06</sound>
+      <sound>sound\sound67_sirideuntjeA_07</sound>
+      <sound>sound\sound68_sirideuntjeA_08</sound>
+      <sound>sound\sound69_sirideuntjeA_09</sound>
+      <sound>sound\sound70_sirideuntjeA_10</sound>
+      <sound>sound\sound71_sirideuntjeB_01</sound>
+      <sound>sound\sound72_sirideuntjeB_02</sound>
+      <sound>sound\sound73_sirideuntjeB_03</sound>
+      <sound>sound\sound74_sirideuntjeB_04</sound>
       <sound>sound\sound60_siri_connectionerror</sound>
     </sounds>
   </sounds>
@@ -281,6 +295,8 @@
     <object>objects\obj_Score200</object>
   </objects>
   <timelines name="timelines">
+    <timeline>timelines\timeline_sound_sirideuntje</timeline>
+    <timeline>timelines\timeline_sound_sirideuntjeB</timeline>
     <timelines name="Room2_Koekoek">
       <timeline>timelines\timeline_Score</timeline>
       <timeline>timelines\timeline_sound_room2_bumblebee</timeline>
