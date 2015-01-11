@@ -210,9 +210,32 @@
     <background>background\background_Instructies_Koekoek</background>
     <background>background\muurschildering</background>
     <background>background\bckgr_room0_siri</background>
+    <background>background\SPR_intertitle_make-points</background>
+    <background>background\SPR_intertitle_tablesturned</background>
+    <background>background\SPR_intertitle_use_balance</background>
+    <background>background\SPR_intertitle_quick-cake</background>
+    <background>background\SPR_intertitle_the-arrives</background>
+    <background>background\SPR_intertitle_use_baker</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
+    <objects name="room0_siri">
+      <object>objects\iPad</object>
+      <object>objects\location_indicator</object>
+      <object>objects\mannetje</object>
+      <object>objects\obj__GOAL01_nointernet</object>
+      <object>objects\obj_bakker</object>
+      <object>objects\obj_onzichtbare_bakker</object>
+      <object>objects\obj_doolhof_siriTRIGGER</object>
+      <object>objects\obj_doolhof_walls</object>
+      <object>objects\obj_GOAL02_routenaartaart</object>
+      <object>objects\obj_GOAL03_taart</object>
+      <object>objects\obj_inv_walls</object>
+      <object>objects\obj_klikcheck</object>
+      <object>objects\obj_taart_doolhof</object>
+      <object>objects\siri</object>
+      <object>objects\OBJsirilogo</object>
+    </objects>
     <objects name="Room1_Letters">
       <object>objects\check</object>
       <object>objects\obj_a</object>
@@ -251,24 +274,7 @@
       <object>objects\object1b</object>
       <object>objects\object2c</object>
       <object>objects\object3d</object>
-      <object>objects\restart</object>
       <object>objects\obj_Taart_apart</object>
-    </objects>
-    <objects name="room0_siri">
-      <object>objects\iPad</object>
-      <object>objects\location_indicator</object>
-      <object>objects\mannetje</object>
-      <object>objects\obj__GOAL01_nointernet</object>
-      <object>objects\obj_bakker</object>
-      <object>objects\obj_doolhof_siriTRIGGER</object>
-      <object>objects\obj_doolhof_walls</object>
-      <object>objects\obj_GOAL02_routenaartaart</object>
-      <object>objects\obj_GOAL03_taart</object>
-      <object>objects\obj_inv_walls</object>
-      <object>objects\obj_klikcheck</object>
-      <object>objects\obj_taart_doolhof</object>
-      <object>objects\siri</object>
-      <object>objects\OBJsirilogo</object>
     </objects>
     <objects name="Room2_Koekoek">
       <object>objects\obj_Aftelklok</object>
@@ -310,6 +316,8 @@
     <object>objects\obj_Score150</object>
     <object>objects\obj_Score200</object>
     <object>objects\obj_Retry</object>
+    <object>objects\global_game_CONTROLLER</object>
+    <object>objects\obj_uitleg</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_sound_sirideuntje</timeline>
@@ -328,10 +336,15 @@
     </timelines>
   </timelines>
   <rooms name="rooms">
+    <room>rooms\room0_introductie</room>
+    <room>rooms\room0_introductie_B</room>
+    <room>rooms\room0_introductie_C</room>
     <room>rooms\room0_siri</room>
     <room>rooms\room1_Letters_new</room>
     <room>rooms\room2a_Koekoek_Instructies</room>
-    <room>rooms\room2b_Koekoek</room>
+    <room>rooms\room2bb</room>
+    <room>rooms\room2c</room>
+    <room>rooms\room2d_Koekoek</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
