@@ -204,9 +204,9 @@
     <sprite>sprites\sprite95_SPR_intertitle_you_game</sprite>
     <sprite>sprites\sprite97_cracked_broken_lcd_monitor_screen</sprite>
     <sprite>sprites\sprite107</sprite>
+    <sprite>sprites\sprite110_SPR_schilder1</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\bckgr_Cyclorama1</background>
     <background>background\background_Instructies_Koekoek</background>
     <background>background\muurschildering</background>
     <background>background\bckgr_room0_siri</background>
@@ -304,7 +304,6 @@
       <object>objects\obj_President1</object>
       <object>objects\obj_President2</object>
       <object>objects\obj_President3</object>
-      <object>objects\obj_SCORE</object>
       <object>objects\obj_Score_trigger</object>
       <object>objects\obj_Taart1</object>
       <object>objects\obj_Voorbijganger_Detector</object>
@@ -320,12 +319,12 @@
     <object>objects\global_game_CONTROLLER</object>
     <object>objects\obj_uitleg</object>
     <object>objects\object_letterchecker</object>
+    <object>objects\obj_schilder</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_sound_sirideuntje</timeline>
     <timeline>timelines\timeline_sound_sirideuntjeB</timeline>
     <timelines name="Room2_Koekoek">
-      <timeline>timelines\timeline_Score</timeline>
       <timeline>timelines\timeline_sound_room2_bumblebee</timeline>
       <timeline>timelines\timeline_Maak_Voorbijgangers</timeline>
     </timelines>
@@ -348,6 +347,7 @@
     <room>rooms\room2bb</room>
     <room>rooms\room2c</room>
     <room>rooms\room2d_Koekoek</room>
+    <room>rooms\room3_the_end</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

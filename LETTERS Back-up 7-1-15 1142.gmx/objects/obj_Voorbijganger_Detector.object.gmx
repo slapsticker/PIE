@@ -345,7 +345,7 @@
         <exetype>1</exetype>
         <functionname>action_set_alarm</functionname>
         <codestring></codestring>
-        <whoName>obj_SCORE</whoName>
+        <whoName>&lt;undefined&gt;</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
