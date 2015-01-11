@@ -289,10 +289,13 @@
       <object>objects\obj_Voorbijganger_Detector</object>
     </objects>
     <object>objects\obj_Score000</object>
+    <object>objects\obj_Failed_Again</object>
+    <object>objects\obj_Failed_Stylish1</object>
     <object>objects\obj_Score050</object>
     <object>objects\obj_Score100</object>
     <object>objects\obj_Score150</object>
     <object>objects\obj_Score200</object>
+    <object>objects\obj_Retry</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_sound_sirideuntje</timeline>
