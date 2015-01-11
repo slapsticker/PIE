@@ -191,6 +191,7 @@
     <sprite>sprites\sprite93_SPR_intertitle_try_again</sprite>
     <sprite>sprites\sprite94_SPR_intertitle_use_baker</sprite>
     <sprite>sprites\sprite95_SPR_intertitle_you_game</sprite>
+    <sprite>sprites\sprite97_cracked_broken_lcd_monitor_screen</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
