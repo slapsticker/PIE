@@ -53,7 +53,8 @@
   <instances>
     <instance objName="obj_Speed_Controller0" x="544" y="128" name="inst_C6F46AF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="restart" x="704" y="128" name="inst_DE3060B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Bediende_Stapt" x="192" y="96" name="inst_1082155A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Bediende_Stapt" x="-64" y="96" name="inst_1082155A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Taart_apart" x="303" y="79" name="inst_1CD17469" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

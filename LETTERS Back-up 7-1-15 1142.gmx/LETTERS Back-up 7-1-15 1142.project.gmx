@@ -139,6 +139,10 @@
       <sprite>sprites\spr_Rijkaard_Taart1</sprite>
       <sprite>sprites\spr_President4</sprite>
       <sprite>sprites\spr_President_Taart4</sprite>
+      <sprite>sprites\spr_Taart_Rechts1</sprite>
+      <sprite>sprites\spr_Taart_Rechts2</sprite>
+      <sprite>sprites\spr_Taart_Links1</sprite>
+      <sprite>sprites\spr_Links2</sprite>
     </sprites>
     <sprites name="Room1_Letters">
       <sprite>sprites\a</sprite>
@@ -163,7 +167,7 @@
       <sprite>sprites\sprite9_SPR_E</sprite>
       <sprite>sprites\sprite5_SPR_A</sprite>
       <sprite>sprites\sprite8_SPR_D</sprite>
-      <sprite>sprites\sprite39_SPR_intertitle_oh-failed</sprite>
+      <sprite>sprites\sprite39_SPR_intertitle_oh_failed</sprite>
       <sprite>sprites\sprite0</sprite>
       <sprite>sprites\spr_Check_Highlight</sprite>
       <sprite>sprites\sprite29_SPR_Y</sprite>
@@ -174,6 +178,11 @@
       <sprite>sprites\c</sprite>
       <sprite>sprites\sprite13_SPR_I</sprite>
       <sprite>sprites\d</sprite>
+      <sprite>sprites\spr_TaartA</sprite>
+      <sprite>sprites\spr_TaartD</sprite>
+      <sprite>sprites\spr_TaartB</sprite>
+      <sprite>sprites\spr_TaartC</sprite>
+      <sprite>sprites\spr_Bediende_Wandelt</sprite>
     </sprites>
     <sprite>sprites\sprite80_SPR_intertitle_bring_president</sprite>
     <sprite>sprites\sprite81_SPR_intertitle_but_fashion</sprite>
@@ -240,6 +249,7 @@
       <object>objects\object2c</object>
       <object>objects\object3d</object>
       <object>objects\restart</object>
+      <object>objects\obj_Taart_apart</object>
     </objects>
     <objects name="room0_siri">
       <object>objects\iPad</object>
@@ -316,7 +326,6 @@
   </timelines>
   <rooms name="rooms">
     <room>rooms\room0_siri</room>
-    <room>rooms\room1_Letters</room>
     <room>rooms\room1_Letters_new</room>
     <room>rooms\room2a_Koekoek_Instructies</room>
     <room>rooms\room2b_Koekoek</room>

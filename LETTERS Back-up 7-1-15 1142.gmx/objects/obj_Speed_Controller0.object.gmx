@@ -278,13 +278,13 @@
         <exetype>1</exetype>
         <functionname>action_sprite_set</functionname>
         <codestring></codestring>
-        <whoName>obj_Bediende_Stapt</whoName>
+        <whoName>obj_Taart_apart</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Bediende_Stapt4_Rechts2</sprite>
+            <sprite>spr_TaartD</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -398,13 +398,13 @@
         <exetype>1</exetype>
         <functionname>action_sprite_set</functionname>
         <codestring></codestring>
-        <whoName>obj_Bediende_Stapt</whoName>
+        <whoName>obj_Taart_apart</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Bediende_Stapt4_Links2</sprite>
+            <sprite>spr_TaartC</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -504,13 +504,13 @@
         <exetype>1</exetype>
         <functionname>action_sprite_set</functionname>
         <codestring></codestring>
-        <whoName>obj_Bediende_Stapt</whoName>
+        <whoName>obj_Taart_apart</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Bediende_Stapt4_Links1</sprite>
+            <sprite>spr_TaartB</sprite>
           </argument>
           <argument>
             <kind>0</kind>

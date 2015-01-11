@@ -119,13 +119,13 @@
         <exetype>1</exetype>
         <functionname>action_sprite_set</functionname>
         <codestring></codestring>
-        <whoName>obj_Bediende_Stapt</whoName>
+        <whoName>obj_Taart_apart</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Bediende_Stapt4_Rechts2</sprite>
+            <sprite>spr_Taart_Rechts2</sprite>
           </argument>
           <argument>
             <kind>0</kind>

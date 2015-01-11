@@ -20,6 +20,6 @@
   <width>1024</width>
   <height>768</height>
   <frames>
-    <frame index="0">images\sprite39_SPR_intertitle_oh-failed_0.png</frame>
+    <frame index="0">images\sprite39_SPR_intertitle_oh_failed_0.png</frame>
   </frames>
 </sprite>
