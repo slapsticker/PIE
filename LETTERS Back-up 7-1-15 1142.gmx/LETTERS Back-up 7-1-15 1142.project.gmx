@@ -102,6 +102,8 @@
     </sprites>
     <sprites name="Room2_Koekoek">
       <sprite>sprites\spr_Aftelklok</sprite>
+      <sprite>sprites\spr_Agent_taart1</sprite>
+      <sprite>sprites\spr_Agent1</sprite>
       <sprite>sprites\spr_Balast1</sprite>
       <sprite>sprites\spr_Bediende_Stapt1</sprite>
       <sprite>sprites\spr_Bediende_Stapt2</sprite>
@@ -113,76 +115,76 @@
       <sprite>sprites\spr_Bediende_Stapt4_Rechts2</sprite>
       <sprite>sprites\spr_Bediende_Valt1</sprite>
       <sprite>sprites\spr_Bediende_Valt2</sprite>
+      <sprite>sprites\spr_Bediende_Valt3</sprite>
+      <sprite>sprites\spr_Bediende_Valt4</sprite>
       <sprite>sprites\spr_Helling0</sprite>
       <sprite>sprites\spr_Helling1</sprite>
       <sprite>sprites\spr_Helling2</sprite>
       <sprite>sprites\spr_Kantel</sprite>
-      <sprite>sprites\spr_Voorbijganger_Detector</sprite>
       <sprite>sprites\Spr_Koekoek</sprite>
       <sprite>sprites\spr_Koekoek_Vliegt</sprite>
+      <sprite>sprites\spr_Links2</sprite>
+      <sprite>sprites\spr_muurschildering</sprite>
       <sprite>sprites\spr_President_Taart1</sprite>
       <sprite>sprites\spr_President_Taart2</sprite>
       <sprite>sprites\spr_President_Taart3</sprite>
+      <sprite>sprites\spr_President_Taart4</sprite>
       <sprite>sprites\spr_President1</sprite>
       <sprite>sprites\spr_President2</sprite>
       <sprite>sprites\spr_President3</sprite>
+      <sprite>sprites\spr_President4</sprite>
+      <sprite>sprites\spr_Rijkaard_Taart1</sprite>
+      <sprite>sprites\spr_Rijkaard1</sprite>
+      <sprite>sprites\spr_Taart_Links1</sprite>
+      <sprite>sprites\spr_Taart_Rechts1</sprite>
+      <sprite>sprites\spr_Taart_Rechts2</sprite>
       <sprite>sprites\spr_Taart1</sprite>
       <sprite>sprites\spr_Tussentitel_000</sprite>
       <sprite>sprites\spr_Tussentitel_050</sprite>
       <sprite>sprites\spr_Tussentitel_100</sprite>
       <sprite>sprites\spr_Tussentitel_150</sprite>
       <sprite>sprites\spr_Tussentitel_200</sprite>
-      <sprite>sprites\spr_muurschildering</sprite>
-      <sprite>sprites\spr_Agent1</sprite>
-      <sprite>sprites\spr_Agent_taart1</sprite>
-      <sprite>sprites\spr_Rijkaard1</sprite>
-      <sprite>sprites\spr_Rijkaard_Taart1</sprite>
-      <sprite>sprites\spr_President4</sprite>
-      <sprite>sprites\spr_President_Taart4</sprite>
-      <sprite>sprites\spr_Taart_Rechts1</sprite>
-      <sprite>sprites\spr_Taart_Rechts2</sprite>
-      <sprite>sprites\spr_Taart_Links1</sprite>
-      <sprite>sprites\spr_Links2</sprite>
+      <sprite>sprites\spr_Voorbijganger_Detector</sprite>
     </sprites>
     <sprites name="Room1_Letters">
       <sprite>sprites\a</sprite>
       <sprite>sprites\b</sprite>
-      <sprite>sprites\sprite28_SPR_X</sprite>
-      <sprite>sprites\sprite27_SPR_W</sprite>
-      <sprite>sprites\sprite22_SPR_R</sprite>
-      <sprite>sprites\sprite23_SPR_S</sprite>
+      <sprite>sprites\c</sprite>
+      <sprite>sprites\d</sprite>
+      <sprite>sprites\spr_Bediende_Wandelt</sprite>
+      <sprite>sprites\spr_Check_Highlight</sprite>
+      <sprite>sprites\spr_TaartA</sprite>
+      <sprite>sprites\spr_TaartB</sprite>
+      <sprite>sprites\spr_TaartC</sprite>
+      <sprite>sprites\spr_TaartD</sprite>
+      <sprite>sprites\sprite0</sprite>
+      <sprite>sprites\sprite10_SPR_F</sprite>
+      <sprite>sprites\sprite11_SPR_G</sprite>
+      <sprite>sprites\sprite12_SPR_H</sprite>
+      <sprite>sprites\sprite13_SPR_I</sprite>
+      <sprite>sprites\sprite14_SPR_J</sprite>
+      <sprite>sprites\sprite15_SPR_K</sprite>
+      <sprite>sprites\sprite16_SPR_L</sprite>
+      <sprite>sprites\sprite17_SPR_M</sprite>
+      <sprite>sprites\sprite18_SPR_N</sprite>
       <sprite>sprites\sprite19_SPR_O</sprite>
       <sprite>sprites\sprite20_SPR_P</sprite>
       <sprite>sprites\sprite21_SPR_Q</sprite>
+      <sprite>sprites\sprite22_SPR_R</sprite>
+      <sprite>sprites\sprite23_SPR_S</sprite>
       <sprite>sprites\sprite24_SPR_T</sprite>
-      <sprite>sprites\sprite15_SPR_K</sprite>
-      <sprite>sprites\sprite16_SPR_L</sprite>
-      <sprite>sprites\sprite14_SPR_J</sprite>
-      <sprite>sprites\sprite6_SPR_B</sprite>
-      <sprite>sprites\sprite10_SPR_F</sprite>
-      <sprite>sprites\sprite18_SPR_N</sprite>
-      <sprite>sprites\sprite7_SPR_C</sprite>
       <sprite>sprites\sprite25_SPR_U</sprite>
-      <sprite>sprites\sprite12_SPR_H</sprite>
-      <sprite>sprites\sprite9_SPR_E</sprite>
-      <sprite>sprites\sprite5_SPR_A</sprite>
-      <sprite>sprites\sprite8_SPR_D</sprite>
-      <sprite>sprites\sprite39_SPR_intertitle_oh_failed</sprite>
-      <sprite>sprites\sprite0</sprite>
-      <sprite>sprites\spr_Check_Highlight</sprite>
-      <sprite>sprites\sprite29_SPR_Y</sprite>
       <sprite>sprites\sprite26_SPR_V</sprite>
+      <sprite>sprites\sprite27_SPR_W</sprite>
+      <sprite>sprites\sprite28_SPR_X</sprite>
+      <sprite>sprites\sprite29_SPR_Y</sprite>
       <sprite>sprites\sprite30_SPR_Z</sprite>
-      <sprite>sprites\sprite11_SPR_G</sprite>
-      <sprite>sprites\sprite17_SPR_M</sprite>
-      <sprite>sprites\c</sprite>
-      <sprite>sprites\sprite13_SPR_I</sprite>
-      <sprite>sprites\d</sprite>
-      <sprite>sprites\spr_TaartA</sprite>
-      <sprite>sprites\spr_TaartD</sprite>
-      <sprite>sprites\spr_TaartB</sprite>
-      <sprite>sprites\spr_TaartC</sprite>
-      <sprite>sprites\spr_Bediende_Wandelt</sprite>
+      <sprite>sprites\sprite39_SPR_intertitle_oh_failed</sprite>
+      <sprite>sprites\sprite5_SPR_A</sprite>
+      <sprite>sprites\sprite6_SPR_B</sprite>
+      <sprite>sprites\sprite7_SPR_C</sprite>
+      <sprite>sprites\sprite8_SPR_D</sprite>
+      <sprite>sprites\sprite9_SPR_E</sprite>
     </sprites>
     <sprite>sprites\sprite80_SPR_intertitle_bring_president</sprite>
     <sprite>sprites\sprite81_SPR_intertitle_but_fashion</sprite>
@@ -201,6 +203,7 @@
     <sprite>sprites\sprite94_SPR_intertitle_use_baker</sprite>
     <sprite>sprites\sprite95_SPR_intertitle_you_game</sprite>
     <sprite>sprites\sprite97_cracked_broken_lcd_monitor_screen</sprite>
+    <sprite>sprites\sprite107</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bckgr_Cyclorama1</background>
