@@ -348,6 +348,7 @@
     <room>rooms\room2c</room>
     <room>rooms\room2d_Koekoek</room>
     <room>rooms\room3_the_end</room>
+    <room>rooms\room2_koekoek_NOLAG</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
