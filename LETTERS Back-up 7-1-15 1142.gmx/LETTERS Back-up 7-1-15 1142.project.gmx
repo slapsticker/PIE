@@ -216,6 +216,7 @@
     <background>background\SPR_intertitle_quick-cake</background>
     <background>background\SPR_intertitle_the-arrives</background>
     <background>background\SPR_intertitle_use_baker</background>
+    <background>background\SPR_intertitle_bring-president</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -318,6 +319,7 @@
     <object>objects\obj_Retry</object>
     <object>objects\global_game_CONTROLLER</object>
     <object>objects\obj_uitleg</object>
+    <object>objects\object_letterchecker</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_sound_sirideuntje</timeline>
@@ -340,6 +342,7 @@
     <room>rooms\room0_introductie_B</room>
     <room>rooms\room0_introductie_C</room>
     <room>rooms\room0_siri</room>
+    <room>rooms\room1_letters_instructions</room>
     <room>rooms\room1_Letters_new</room>
     <room>rooms\room2a_Koekoek_Instructies</room>
     <room>rooms\room2bb</room>
